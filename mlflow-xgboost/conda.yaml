@@ -1,0 +1,12 @@
+name: xgboost_mlflow_env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - xgboost
+  - mlflow
+  - pip
+  - pip:
+    - matplotlib
+

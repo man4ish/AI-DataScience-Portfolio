@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/manishkumar/Desktop/mlflow-xgboost/mlruns/0/a43e074d73ed4890af829d7cd2e7afcf/artifacts
+end_time: 1744157691900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a43e074d73ed4890af829d7cd2e7afcf
+run_name: nervous-rat-200
+run_uuid: a43e074d73ed4890af829d7cd2e7afcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744157652137
+status: 3
+tags: []
+user_id: manishkumar
