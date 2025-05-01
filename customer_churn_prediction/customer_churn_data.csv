@@ -1,0 +1,11 @@
+customer_id,age,gender,income,subscription_type,account_length,usage,customer_service_calls,churn
+1,34,M,45000,Standard,36,120,3,0
+2,45,F,56000,Premium,58,180,1,1
+3,23,M,34000,Standard,12,60,5,0
+4,35,F,48000,Standard,42,140,2,0
+5,28,F,52000,Premium,60,200,0,1
+6,52,M,49000,Standard,23,85,4,0
+7,41,M,57000,Premium,48,160,3,1
+8,36,F,55000,Standard,50,130,6,0
+9,29,M,48000,Premium,36,100,2,1
+10,40,F,53000,Standard,40,150,1,0
