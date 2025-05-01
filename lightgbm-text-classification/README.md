@@ -68,6 +68,6 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ## Author
 
-Your Name  
-Email: your.email@example.com  
-GitHub: [your-username](https://github.com/your-username)
+Manish Kumar
+Email: mandecent.gupta@gmail.com  
+GitHub: [man4ish](https://github.com/man4ish)
