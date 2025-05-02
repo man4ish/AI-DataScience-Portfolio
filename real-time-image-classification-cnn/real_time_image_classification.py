@@ -1,3 +1,34 @@
+"""
+real_time_image_classification.py
+
+A real-time image classification script using OpenCV and TensorFlow's pre-trained MobileNetV2 model.
+
+This script captures video from a webcam, processes each frame, and classifies it into one of the 
+ImageNet categories. The top predicted label is displayed on the video feed in real time.
+
+Modules used:
+- cv2: For webcam access and image display
+- tensorflow: To load and run the pre-trained MobileNetV2 model
+- numpy: For array manipulation
+- os: To configure CUDA environment for CPU-only inference
+
+Requirements:
+- TensorFlow (with keras)
+- OpenCV
+- numpy
+- 'imagenet_class_index.json' file in the working directory (if manually parsing classes)
+
+Usage:
+    python real_time_image_classification.py
+
+Press 'q' to exit the webcam stream.
+
+Note:
+- Ensure a webcam is connected.
+- This script forces TensorFlow to run on CPU to avoid CUDA-related errors.
+"""
+
+
 import cv2
 import tensorflow as tf
 import numpy as np
