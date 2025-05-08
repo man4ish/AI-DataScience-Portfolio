@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+pymc>=5.0
+arviz
+
