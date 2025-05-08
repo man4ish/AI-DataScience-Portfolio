@@ -13,7 +13,8 @@ Key Steps:
 - Forecasting with uncertainty quantification
 - Saving forecast plots to disk
 
-Author: [Your Name]
+Author: Manish Kumar
+Date: 2025-07-05
 """
 
 import pymc as pm
